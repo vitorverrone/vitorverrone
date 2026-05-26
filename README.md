@@ -22,8 +22,8 @@ For over **6 years**, I worked on complex integrations for global brands using *
 const vitor = {
   role: "Frontend Developer",
   experience: "10+ years",
-  location: "Americana, SP — Brazil 🇧🇷",
-  currentFocus: ["Next.js", "TypeScript", "React", "NestJS"],
+  location: "São Paulo — Brazil 🇧🇷",
+  currentFocus: ["Next.js", "TypeScript", "React", "Flutter", "NestJS"],
   languages: { pt: "Native 🇧🇷", en: "Intermediate 🇬🇧" },
 };
 ```
