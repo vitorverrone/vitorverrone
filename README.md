@@ -6,7 +6,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitor-verrone/)
 [![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:vitor.verrone@outlook.com)
-[![Location](https://img.shields.io/badge/Americana%2C_SP-🇧🇷-lightgrey?style=for-the-badge)](https://maps.google.com/?q=Americana,SP)
+[![Location](https://img.shields.io/badge/São-Paulo-🇧🇷-lightgrey?style=for-the-badge)]
 
 </div>
 
@@ -24,8 +24,7 @@ const vitor = {
   experience: "10+ years",
   location: "Americana, SP — Brazil 🇧🇷",
   currentFocus: ["Next.js", "TypeScript", "React", "NestJS"],
-  passions: ["e-commerce", "performance", "clean architecture", "great UX"],
-  languages: { pt: "Native 🇧🇷", en: "Pre-Intermediate 🇬🇧" },
+  languages: { pt: "Native 🇧🇷", en: "Intermediate 🇬🇧" },
 };
 ```
 
@@ -53,67 +52,3 @@ const vitor = {
 ![Salesforce](https://img.shields.io/badge/SFCC_(B2C_/_SFRA)-00A1E0?style=flat-square&logo=salesforce&logoColor=white)
 ![VTEX](https://img.shields.io/badge/VTEX-F71963?style=flat-square&logo=vtex&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
-
----
-
-## 💼 Experience Timeline
-
-```
-2020 – 2026  │ Capgemini — Digital Solutions Consultant
-             │  └─ SFCC/SFRA enterprise solutions · Performance optimization
-             │     Design Systems · WCAG accessibility · Tech mentoring
-             │
-2018 – 2019  │ JÜSSI — Web Developer (Mid-level)
-             │  └─ VTEX e-commerce · System integrations
-             │     High-fidelity layouts · Client consulting
-             │
-2017 – 2018  │ VOLLUP — Frontend Developer
-             │  └─ Custom WordPress themes · Bespoke e-commerce platforms
-             │     PHP development · Brand-driven builds
-```
-
----
-
-## 🚀 Featured Project
-
-### 🎓 AI-Powered Educational Platform
-> `Next.js` · `NestJS` · `TypeScript`
-
-Full-stack interactive educational application with an **AI-powered virtual teacher assistant**. Built the full UI with Next.js/React, orchestrated business logic on the backend with NestJS, and handled complex state management + external API integrations to bring the AI persona to life.
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Vitor's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vitor-verrone&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vitor-verrone&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
-## 📚 Education & Certifications
-
-- 🎓 **Associate Degree** — Systems Analysis & Development · Universidade Nove de Julho (2016–2018)
-- 🏫 **Technical Degree** — Information Technology · ETEC Polivalente de Americana (2014–2015)
-- 🇬🇧 **Immersion English** — Club Class Language School, Malta · Oxford Certification A2 (2026)
-
-**Courses:**
-- Next.js: The Complete Developer's Guide · Udemy
-- NestJS: The Complete Developer's Guide · Udemy
-- Modern React with Redux · Udemy
-- MERN 2025 Edition (MongoDB, Express, React, Node.js) · Udemy
-
----
-
-<div align="center">
-
-*"Great interfaces don't just work — they're felt."*
-
-**Let's build something remarkable together 🚀**
-
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitor-verrone/)
-
-</div>
