@@ -2,7 +2,7 @@
 
 # Hey, I'm Vitor Verrone 👋
 
-**Frontend Developer · 10+ years transforming e-commerce experiences**
+**Frontend Developer**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitor-verrone/)
 [![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:vitor.verrone@outlook.com)
