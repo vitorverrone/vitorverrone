@@ -48,6 +48,9 @@ const vitor = {
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 
+### Mobile
+![Flutter](https://img.shields.io/badge/-FLUTTER-02569B?logo=flutter&logoColor=white&style=fot-the-badge)
+
 ### E-commerce Platforms
 ![Salesforce](https://img.shields.io/badge/SFCC_(B2C_/_SFRA)-00A1E0?style=flat-square&logo=salesforce&logoColor=white)
 ![VTEX](https://img.shields.io/badge/VTEX-F71963?style=flat-square&logo=vtex&logoColor=white)
